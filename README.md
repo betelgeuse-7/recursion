@@ -1,7 +1,7 @@
 # recursions-lists-standard-ml
 a few recursive functions in standard ml
 
-OSSU Computer Science curriculum:
+OSSU Computer Science curriculum: \n
   Course: Programming Languages Part A 
   Lists in Standard ML
     Some recursive functions.
