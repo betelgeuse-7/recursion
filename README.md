@@ -1,4 +1,4 @@
-# recursions-lists-standard-ml
+# recursion
 a few recursive functions in standard ml
 
 OSSU Computer Science curriculum: <br/>
